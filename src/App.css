@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Monoton&family=Orbitron&family=Press+Start+2P&family=Zen+Dots&display=swap');
+
+
+.canvas{
+
+  position: relative;
+
+  width: 80vw;
+  height: 80vw;
+
+
+
+  background-color: black;
+
+  border: 3px solid black;
+}
+
+.counter{
+  font-size: 6vw;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.counter-left{
+  position: absolute;
+  top: 1vw;
+  left: 2vw;
+
+  color: white;
+}
+
+.counter-right{
+  position: absolute;
+  top: 1vw;
+  right: 2vw;
+
+  color: white;
+}
+
+.buttons-left{
+  position: absolute;
+  top: calc(50% - 12vw);
+  left: -25%;
+}
+
+.buttons-right{
+  position: absolute;
+  top: calc(50% - 12vw);
+  right: -25%;
+}

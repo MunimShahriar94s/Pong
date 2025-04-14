@@ -1,0 +1,11 @@
+.line{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 1vw;
+
+    width: 2vw;
+    height: 100%;
+
+    margin-left: calc(50% - 1vw);
+}

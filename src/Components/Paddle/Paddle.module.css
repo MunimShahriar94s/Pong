@@ -1,0 +1,18 @@
+.paddle{
+    position: absolute;
+
+
+    height: 10vw;
+    width: 0.5vw;
+
+    background-color: white;
+
+}
+
+.left{
+    left: 0;
+}
+
+.right{
+    right: 0;
+}
